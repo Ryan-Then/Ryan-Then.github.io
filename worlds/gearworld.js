@@ -1,4 +1,4 @@
-
+//deprecated version
 export function init(Constants) {
     Constants.AvatarNames = [
         "newwhite"
